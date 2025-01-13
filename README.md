@@ -48,3 +48,6 @@ Over the years, IEEE IGDTUW has been honored to host esteemed speakers who have 
 </div>
 
 ---
+
+[Visit the official IEEE IGDTUW website](https://ieee-igdtuw.github.io/ieeeigdtuw/)
+
